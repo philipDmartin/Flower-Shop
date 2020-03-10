@@ -1,0 +1,11 @@
+C:\Users\phili\workspace\Cohort37\flowerShop\bin\Debug\netcoreapp3.1\flowerShop.exe
+C:\Users\phili\workspace\Cohort37\flowerShop\bin\Debug\netcoreapp3.1\flowerShop.deps.json
+C:\Users\phili\workspace\Cohort37\flowerShop\bin\Debug\netcoreapp3.1\flowerShop.runtimeconfig.json
+C:\Users\phili\workspace\Cohort37\flowerShop\bin\Debug\netcoreapp3.1\flowerShop.runtimeconfig.dev.json
+C:\Users\phili\workspace\Cohort37\flowerShop\bin\Debug\netcoreapp3.1\flowerShop.dll
+C:\Users\phili\workspace\Cohort37\flowerShop\bin\Debug\netcoreapp3.1\flowerShop.pdb
+C:\Users\phili\workspace\Cohort37\flowerShop\obj\Debug\netcoreapp3.1\flowerShop.csprojAssemblyReference.cache
+C:\Users\phili\workspace\Cohort37\flowerShop\obj\Debug\netcoreapp3.1\flowerShop.AssemblyInfoInputs.cache
+C:\Users\phili\workspace\Cohort37\flowerShop\obj\Debug\netcoreapp3.1\flowerShop.AssemblyInfo.cs
+C:\Users\phili\workspace\Cohort37\flowerShop\obj\Debug\netcoreapp3.1\flowerShop.dll
+C:\Users\phili\workspace\Cohort37\flowerShop\obj\Debug\netcoreapp3.1\flowerShop.pdb
